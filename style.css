@@ -1,0 +1,15 @@
+table{
+  margin: auto;
+  border-radius: 10px;
+  background-color: rgba(150,150,150,0.8);
+}
+body{
+  background: url('https://wallpaper.dog/large/5529077.jpg');
+  background-size: contain;
+}
+.clear{
+  background-color: yellow
+}
+.operators{
+  background-color: orangered
+}
