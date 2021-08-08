@@ -2,14 +2,18 @@ table{
   margin: auto;
   border-radius: 10px;
   background-color: rgba(150,150,150,0.8);
+  height: 200px;
+  width: 200px;
 }
 body{
   background: url('https://wallpaper.dog/large/5529077.jpg');
   background-size: contain;
 }
 .clear{
-  background-color: yellow
+  background-color: yellow;
 }
 .operators{
-  background-color: orangered
+  background-color: orangered;
+  font-weight: bold;
+  font-size: 80%;
 }
